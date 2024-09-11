@@ -10,3 +10,5 @@ Both the client and server will run in separate threads to handle sending and re
 # How to Run the Application:
 1.  Run the Server: First, start the server. The server will wait for a client to connect.
     Compile and run the server code (ChatServer.java).
+2.  Run the Client: After the server is running, start the client. The client will connect to the server and the chat can begin.
+    Compile and run the client code (ChatClient.java).
