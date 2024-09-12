@@ -14,3 +14,7 @@ Both the client and server will run in separate threads to handle sending and re
     Compile and run the client code (ChatClient.java).
 3.  Chat: Once both are running, the users can chat by typing messages in the console. The messages will be sent between the 
     client and server in real-time.
+
+
+# Running:
+1.  Once the code is compiled, you can run the program using the java command.
