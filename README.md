@@ -18,3 +18,4 @@ Both the client and server will run in separate threads to handle sending and re
 
 # Running:
 1.  Once the code is compiled, you can run the program using the java command.
+2.  The java command runs the compiled bytecode on the JVM.
